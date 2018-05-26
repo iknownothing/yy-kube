@@ -1,1 +1,1 @@
-This is a transfer mirror for k8s images because of GFW blocking. 
+国外镜像中转站 by BlueLight
